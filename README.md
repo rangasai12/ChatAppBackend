@@ -15,7 +15,7 @@ This Django application is a chat application that allows users to register, log
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-django-chat-app.git
+   git clone https://github.com/rangasai12/ChatApp_Neo.git
 
 2. Install the Requirements:
 
